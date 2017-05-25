@@ -1,3 +1,3 @@
 var config = {
-  'api_server': 'file:///home/sauln/development/gvr_blog/vanilla/client/'
+  'api_server': 'http://Solera-2012.github.io/'
 }
