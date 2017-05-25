@@ -1,3 +1,3 @@
 var config = {
-  'api_server': 'http://Solera-2012.github.io/'
+  'api_server': 'https://Solera-2012.github.io/'
 }
