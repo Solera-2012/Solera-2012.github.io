@@ -1,8 +1,6 @@
 <div align="center">
 # The Interpreter
 
-<hr>
-
 Topic: My Neighborhood  
 Language: Farsi
 

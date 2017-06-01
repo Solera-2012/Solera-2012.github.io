@@ -1,8 +1,17 @@
-# Cape definitely not required
+# Cape not required
 
+<div align="center">
+<i style="font-size:18px;">
 If you think you’re gonna go out there and fix everything, honey, sit down.
->-Andre Pruitt, *Oppression and Privilege*, 2015
+</i>  
+<br><br>
 
+</div>
+<div align="center">
+Andre Pruitt, 2015
+</div>
+
+<br><br><br>
 Systems of oppression.
 
 A system is a set of things working together as parts of a complex whole.
