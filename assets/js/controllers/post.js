@@ -2,6 +2,12 @@ controllers.show_post = function(data, params) {
   console.log("Show the post" + data);
   //var content = templates.post(templates_context);
   var content = data;
+
+
+
+  //utils.render('page-content', templates.post_body(content))
+
+
   utils.render('page-content', content, true);
 };
 

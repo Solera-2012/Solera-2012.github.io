@@ -1,9 +1,9 @@
 controllers.home_page = function(data, params) {
-  console.log("Render the home page now!" + data)
+  console.log("Controller for home page recieved the following data:\n" + data)
 
   var all_posts = JSON.parse(data);
 
-  var posts_to_show = Math.min(3, all_posts.length);
+  var posts_to_show = all_posts.length; //Math.min(3, all_posts.length);
   console.log("Try to show " + posts_to_show + " posts");
 
   var template_context = [];
@@ -13,7 +13,7 @@ controllers.home_page = function(data, params) {
       'link': utils.get_link(post),
       'title': post.post.replace(/-/g, ' '),
       'snippet': post.snippet,
-      'published_on': post.added_on
+      'tags': post.tags.join(', ')
     };
     template_context.push(item);
   }

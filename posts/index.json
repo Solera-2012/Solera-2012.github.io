@@ -1,43 +1,31 @@
 [{
-    "post": "About-Me",
-    "tags": ["About"],
-    "added_on": "17 May, 2017",
-    "snippet": "A primer on Gemma"
-  },
-  {
-    "post": "White-people",
-    "tags": ["About"],
-    "added_on": "17 May, 2017",
-    "snippet": "Tips and tricks for blending in with the pale skins."
-  },
-  {
-    "post": "cape",
-    "tags": ["About"],
-    "added_on": "17 May, 2017",
-    "snippet": "cape is definitely not required"
-  },
-  {
     "post": "A-rose-by-any-other-name",
-    "tags": ["About"],
-    "added_on": "17 May, 2017",
+    "tags": ["Who I am and am not"],
     "snippet": "A rose by any other name would smell as sweet."
   },
   {
-    "post": "how-to-hang-with-gringos",
-    "tags": ["About"],
-    "added_on": "17 May, 2017",
+    "post": "Cape",
+    "tags": ["What I've learned in the BSW program"],
+    "snippet": "cape is definitely not required"
+  },
+  {
+    "post": "IN-group-OUT-group",
+    "tags": ["Meaning of social work"],
+    "snippet": "The vision for social work is to recognize In Group Heterogeneity and Out Group Homogeneity."
+  },
+  {
+    "post": "Calladita-te-vez-mas-bonita",
+    "tags": ["What I want to be as a social working"],
+    "snippet": "I would like to for people to say that I stifle the silent judgement out of practice."
+  },
+  {
+    "post": "How-to-hang-with-Gringos",
+    "tags": [""],
     "snippet": "Dos and Don’ts of blending in."
   },
   {
-    "post": "your-privilege-is-showing",
-    "tags": ["About"],
-    "added_on": "17 May, 2017",
+    "post": "Your-privilege-is-showing",
+    "tags": ["Learning lessons the hard way."],
     "snippet": "A true story."
-  },
-  {
-    "post": "calladita-te-vez-mas-bonita",
-    "tags": ["About"],
-    "added_on": "17 May, 2017",
-    "snippet": "."
   }
 ]

@@ -33,7 +33,7 @@ var utils = (function() {
         var params = extract_params(temp[1]);
       }
 
-      console.log("Route to " + params)
+      console.log("Route to " + function_to_invoke)
 
       //fire away...
       if (function_to_invoke) {
@@ -42,8 +42,10 @@ var utils = (function() {
     },
 
     render: function(element_id, content, convert_markdown) {
+      console.log("Add content to page")
       convert_markdown = convert_markdown || false;
       if (!convert_markdown) {
+        console.log("Render the content directly")
         document.getElementById(element_id).innerHTML = content;
       } else {
         var converter = new showdown.Converter();
@@ -54,6 +56,7 @@ var utils = (function() {
 
     //This function is for illustration as there is really no need for ajax here...
     request: function(api_stub, success_callback, error_callback, callback_params) {
+      console.log("Make a request for " + api_stub)
       api_stub = api_stub || '';
       callback_params = callback_params || {};
 

@@ -10,9 +10,6 @@ templates.hello_text = function(data){
             <p>
                 I am currently working as a Trafficing Victims case manager at Catholic Charities and am finishing my degree in Social Work at Portland State University.
             </p>
-            <p>
-              <b><center>This is my manifesto</center></b>
-            </p>
         </div>
     `;
 
