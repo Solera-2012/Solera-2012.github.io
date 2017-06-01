@@ -1,4 +1,4 @@
-# Redefining el dicho: Calladita Te Vez Mas Bonita
+# Redefining el dicho: Calladita Te Ves Mas Bonita
 
 There’s a saying in Spanish that goes,
 <div align="center">
