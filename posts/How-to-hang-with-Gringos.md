@@ -16,7 +16,3 @@ Do **not** make food that’s too spicy.
 But Do prepare your exotic cuisine on numerous occasions.
 
 <hr>
-Point out that you have a close relation who is white.   
-They don’t see color, as long as you don’t tell them they won’t suspect it.
-
-<hr>
