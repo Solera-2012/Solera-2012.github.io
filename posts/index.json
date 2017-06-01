@@ -1,12 +1,13 @@
-[{
+[
+  {
     "post": "A-rose-by-any-other-name",
-    "tags": ["Who I am and am not"],
-    "snippet": "A rose by any other name would smell as sweet."
+    "tags": [""],
+    "snippet": "A guided tour of the names I've been called."
   },
   {
-    "post": "Cape-definitely-not-required",
+    "post": "Cape-not-required",
     "tags": ["What I've learned in the BSW program"],
-    "snippet": "We're social workers, not superheros"
+    "snippet": "Until the revolution: words of wisdom to calm the noise."
   },
   {
     "post": "IN-group-OUT-group",

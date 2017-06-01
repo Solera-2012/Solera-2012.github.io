@@ -1,6 +1,6 @@
 function post_stub(post){
   var content = `
-      <h3><a href="`+post.link+`">`+ post.title +`</a> <i>`+ post.tags +`</i></h3>
+      <h3><a href="`+post.link+`">`+ post.title +`</a></h3>
       <p>`+ post.snippet +`</p>
   `;
 
